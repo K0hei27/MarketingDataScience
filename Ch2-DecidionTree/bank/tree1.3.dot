@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="nr.employed <= 5087.65\ngini = 0.199\nsamples = 100.0%\nvalue = [0.888, 0.112]\nclass = no", fillcolor="#e89152"] ;
+1 [label="duration <= 158.5\ngini = 0.494\nsamples = 12.1%\nvalue = [0.556, 0.444]\nclass = no", fillcolor="#fae6d7"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="pdays <= 14.5\ngini = 0.24\nsamples = 4.1%\nvalue = [0.861, 0.139]\nclass = no", fillcolor="#e99559"] ;
+1 -> 2 ;
+3 [label="gini = 0.447\nsamples = 0.7%\nvalue = [0.662, 0.338]\nclass = no", fillcolor="#f2c19e"] ;
+2 -> 3 ;
+4 [label="gini = 0.183\nsamples = 3.5%\nvalue = [0.898, 0.102]\nclass = no", fillcolor="#e88f4f"] ;
+2 -> 4 ;
+5 [label="poutcome <= 1.5\ngini = 0.479\nsamples = 8.0%\nvalue = [0.398, 0.602]\nclass = no", fillcolor="#bcdef6"] ;
+1 -> 5 ;
+6 [label="gini = 0.499\nsamples = 5.8%\nvalue = [0.478, 0.522]\nclass = no", fillcolor="#eff7fd"] ;
+5 -> 6 ;
+7 [label="gini = 0.298\nsamples = 2.2%\nvalue = [0.182, 0.818]\nclass = no", fillcolor="#65b3eb"] ;
+5 -> 7 ;
+8 [label="duration <= 552.5\ngini = 0.124\nsamples = 87.9%\nvalue = [0.934, 0.066]\nclass = no", fillcolor="#e78a47"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="cons.conf.idx <= -46.65\ngini = 0.053\nsamples = 79.3%\nvalue = [0.973, 0.027]\nclass = no", fillcolor="#e6853f"] ;
+8 -> 9 ;
+10 [label="gini = 0.286\nsamples = 5.9%\nvalue = [0.827, 0.173]\nclass = no", fillcolor="#ea9b62"] ;
+9 -> 10 ;
+11 [label="gini = 0.031\nsamples = 73.4%\nvalue = [0.984, 0.016]\nclass = no", fillcolor="#e5833c"] ;
+9 -> 11 ;
+12 [label="duration <= 835.5\ngini = 0.489\nsamples = 8.6%\nvalue = [0.574, 0.426]\nclass = no", fillcolor="#f8decc"] ;
+8 -> 12 ;
+13 [label="gini = 0.445\nsamples = 5.3%\nvalue = [0.666, 0.334]\nclass = no", fillcolor="#f2c09c"] ;
+12 -> 13 ;
+14 [label="gini = 0.488\nsamples = 3.3%\nvalue = [0.424, 0.576]\nclass = no", fillcolor="#cbe5f8"] ;
+12 -> 14 ;
+}
