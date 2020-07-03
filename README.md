@@ -12,3 +12,6 @@
 4. 協調フィルタリング分析によるレコメンドモデルの構築
 5. テキストマイニングによるTwitter口コミ分析 
 6. RNN, LSTMの時系列予測によるPV数予測
+
+## Data Visualization Work Shop
+2019/12/21 [site](https://datact-data-visualization.peatix.com/?lang=ja)
