@@ -13,5 +13,11 @@
 5. テキストマイニングによるTwitter口コミ分析 
 6. RNN, LSTMの時系列予測によるPV数予測
 
+## Enviroment
+Jupyter Notebook + Python
+Anaconda
+
 ## Data Visualization Work Shop
-2019/12/21 [site](https://datact-data-visualization.peatix.com/?lang=ja)
+2019/12/21に開催した「データ分析・可視化ワークショップ」
+Pythonのコードを公開
+[詳細](https://datact-data-visualization.peatix.com/?lang=ja)
