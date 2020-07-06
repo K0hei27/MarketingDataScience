@@ -17,7 +17,8 @@
 Jupyter Notebook + Python
 Anaconda
 
-## Data Visualization Work Shop
+## Related Contents
+### Data Visualization Work Shop
 2019/12/21に開催した「データ分析・可視化ワークショップ」
 * Pythonを使って、データの抽出・集計・可視化が出来るようなる！
 * 可視化ツールPowerBIを使って、目的に応じたグラフ作成が出来るようになる！
