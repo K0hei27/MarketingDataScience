@@ -14,8 +14,7 @@
 6. RNN, LSTMの時系列予測によるPV数予測
 
 ## Enviroment
-Jupyter Notebook + Python
-Anaconda
+Jupyter Notebook(Python) or Anaconda
 
 ## Related Contents
 ### Data Visualization Work Shop
