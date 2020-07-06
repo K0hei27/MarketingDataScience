@@ -6,8 +6,7 @@
 
 ## Contents
 頻度は月に一度で扱うトピックは以下の6つ
-1. [ロジスティック回帰による広告クリック率の予測](https://qiita.com/K0hei27/private/8d6e805506f508ed0641)
-  1.資料
+1. ロジスティック回帰による広告クリック率の予測[PPT資料](https://docs.google.com/presentation/d/1D3-DvdkuCR678s5E7lx287Cr7ZCsj3HG5ZdMbra20hw/edit#slide=id.g77caa41120_0_84)/[コード解説](https://qiita.com/K0hei27/private/8d6e805506f508ed0641)
 2. 決定木分析による顧客のクラスタリング
 3. 主成分・因子分析によるブランド知覚マップ
 4. 協調フィルタリング分析によるレコメンドモデルの構築
