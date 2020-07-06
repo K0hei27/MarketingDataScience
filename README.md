@@ -19,5 +19,8 @@ Anaconda
 
 ## Data Visualization Work Shop
 2019/12/21に開催した「データ分析・可視化ワークショップ」
-Pythonのコードを公開
-[詳細](https://datact-data-visualization.peatix.com/?lang=ja)
+* Pythonを使って、データの抽出・集計・可視化が出来るようなる！
+* 可視化ツールPowerBIを使って、目的に応じたグラフ作成が出来るようになる！
+* 売り上げの変動に対してボトルネックの原因を、仮説を持ちながら探索できるようになる！
+
+
